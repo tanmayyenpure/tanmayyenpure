@@ -1,7 +1,7 @@
 # Hi, I'm Tanmay Yenpure
 
 Founder of MandirGo and NexSolve. Building AI-powered products and solving real-world problems through technology.
-# I'm a Final-Year Computer Engineering student who enjoys building AI-powered products and solving real-world problems through technology. My interests lie in Artificial Intelligence, Machine Learning, and Software Engineering, and I'm always exploring new ideas, learning new technologies, and turning them into practical solutions that can make a meaningful impact.
+<br/> I'm a Final-Year Computer Engineering student who enjoys building AI-powered products and solving real-world problems through technology. My interests lie in Artificial Intelligence, Machine Learning, and Software Engineering, and I'm always exploring new ideas, learning new technologies, and turning them into practical solutions that can make a meaningful impact.
 
 ## 🌐 Socials:
 
