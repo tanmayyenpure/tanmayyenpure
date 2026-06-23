@@ -55,13 +55,3 @@ I'm a Final-Year Computer Engineering student who enjoys building AI-powered pro
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=tanmayyenpure\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=tanmayyenpure\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanmayyenpure\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
