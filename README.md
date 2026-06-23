@@ -55,3 +55,70 @@ I'm a Final-Year Computer Engineering student who enjoys building AI-powered pro
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)
+
+# 🚀 Featured Projects
+
+## 🏛️ MandirGo
+
+**Overview:** AI-powered smart temple crowd management platform designed to enhance pilgrim experience, safety, and operational efficiency through real-time analytics and predictive intelligence.
+
+**Key Features:**
+
+* Real-time crowd density monitoring using CCTV feeds
+* Footfall prediction with Machine Learning models
+* Smart Darshan booking and visitor management
+* Emergency alert and incident detection system
+* Live crowd status updates and notifications
+* Centralized admin dashboard for monitoring and decision-making
+
+**Tech Stack:** Python, OpenCV, Machine Learning, React, Supabase, JavaScript, Tailwind CSS
+
+**Impact:** Developed to address crowd management challenges in high-footfall religious places by providing real-time insights, predictive analytics, and improved safety measures for pilgrims and temple authorities.
+
+**Repository:** https://github.com/tanmayyenpure/MandirGo
+
+**Live Demo:** https://www.mandirgo.com
+
+---
+
+## 🚀 NexSolve
+
+**Overview:** AI Automation Studio focused on building intelligent solutions that solve real-world problems through automation, AI, and modern software engineering.
+
+**Key Features:**
+
+* AI Automation Solutions
+* Machine Learning Models
+* AI Agents & Intelligent Systems
+* Full-Stack Web Development
+* SEO & Digital Marketing
+* Real-World Problem Solving
+
+**Tech Stack:** Python, React, JavaScript, AI/ML, FastAPI, Node.js, Supabase
+
+**Impact:** Built to transform complex challenges into scalable digital solutions by combining Artificial Intelligence, automation, and modern engineering practices.
+
+**Repository:** https://github.com/tanmayyenpure/NexSolve
+
+**Live Demo:** https://nexsolve-ai.netlify.app
+
+---
+
+## 🩸 BloodSync
+
+**Overview:** Healthcare automation platform developed in collaboration with Love Care Share Foundation to automate the collection, processing, and synchronization of real-time blood availability data from the eRaktKosh portal.
+
+**Key Features:**
+
+* Automated blood inventory data collection
+* Real-time blood availability tracking
+* Google Sheets synchronization
+* Data validation and processing pipeline
+* Scheduled and unattended execution
+* Scalable healthcare automation workflow
+
+**Tech Stack:** Node.js, JavaScript, Playwright, Google Sheets API, OAuth 2.0, Git, GitHub
+
+**Impact:** Eliminates repetitive manual data collection by transforming blood bank information into structured, continuously updated datasets, improving data accessibility and operational efficiency for healthcare initiatives.
+
+**Repository:** https://github.com/tanmayyenpure/BloodSync
